@@ -21,4 +21,6 @@
 - The home page displays different images as you refresh the page. But they all have the theme of home life or family. Once again bringing up that soothinng feeling. 
 
 - The display and text typefaces are relatively similar but the make the website easy to read and they work well with each other. 
-![Rentfaster Homepage](images\Rentfaster.png)
+
+
+[Rentfaster](https://user-images.githubusercontent.com/97326786/150910678-60204a44-17e1-4121-bfea-b8636b934bd8.png)
