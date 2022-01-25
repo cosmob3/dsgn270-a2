@@ -1,6 +1,14 @@
 # DSGN 270 Assignment 2 - Convention Treasure Hunt
 ## Bryan Velasco
 
+### Navigation Breakdown
+
+![Global-nav](https://user-images.githubusercontent.com/97326786/150910905-54e3e473-8288-4941-b1fa-4efd3a89d040.png)
+
+![hamburger-nav](https://user-images.githubusercontent.com/97326786/150910909-97f3f70e-9ae0-4ad0-b435-2ba3557e6d0b.png)
+
+![hero footer](https://user-images.githubusercontent.com/97326786/150910989-40085252-7d92-4148-a797-47b2e49cd83f.png)
+
 ### Hero Section Critique 
 
 **Website Summary**
@@ -23,4 +31,5 @@
 - The display and text typefaces are relatively similar but the make the website easy to read and they work well with each other. 
 
 
-[Rentfaster](https://user-images.githubusercontent.com/97326786/150910678-60204a44-17e1-4121-bfea-b8636b934bd8.png)
+![Rentfaster](https://user-images.githubusercontent.com/97326786/150910678-60204a44-17e1-4121-bfea-b8636b934bd8.png)
+![Rentfaster_2](https://user-images.githubusercontent.com/97326786/150910839-ab063078-80df-43b7-90a9-7cf0297be6b5.png)
